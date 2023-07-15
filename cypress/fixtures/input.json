@@ -1,0 +1,13 @@
+{
+        "validName": "Leonardo",
+        "validPhone": "226-8991926",
+        "validEmail": "leo@gmail.com",
+        "invalidName": "1234567890",
+        "invalidPhone": "softwareTest",
+        "invalidEmail": "leo.com",
+        "emptyDataName": "",
+        "emptyDataPhone": "",
+        "emptyDataEmail": ""
+
+
+}
